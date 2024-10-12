@@ -21,7 +21,7 @@ role as a Front-End Engineer.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" width="48" alt="css3 logo" title="Css" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="48" width="48" alt="sass logo" title="Sass" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" width="48" alt="javascript logo" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/typescript-original.svg" height="48" width="48" alt="typescript logo" title="typescript" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/typescript-original.svg](https://www.typescriptlang.org/icons/icon-144x144.png?v=8944a05a8b601855de116c8a56d3b3ae)" height="48" width="48" alt="typescript logo" title="typescript" />
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="48" width="48" alt="github logo" title="Github" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" width="48" alt="react logo" title="React.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="48" width="48" alt="nextjs logo" title="Next.js" />
