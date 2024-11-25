@@ -22,8 +22,7 @@ role as a Front-End Engineer.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="48" width="48" alt="sass logo" title="Sass" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" width="48" alt="javascript logo" title="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" width="48" alt="typescript logo" title="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ِAngular/angular-original.svg" height="48" width="48" alt="angular logo" title="angular" />
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ِAngular/angular-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css)" height="48" width="48" alt="angular logo" title="angular" />
 
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="48" width="48" alt="github logo" title="Github" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" width="48" alt="react logo" title="React.js" />
