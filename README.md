@@ -1,56 +1,54 @@
-<h4 align="left">
-Hi, I am Mahmoud hussien  
-<br /> <br />
-Currently, Front-End Engineer 
-<br /> <br />
-Seeking to leverage broad development experience and technical expertise in a challenging
-role as a Front-End Engineer.
-</h4>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&username=MahmoudHussien7" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=true&username=MahmoudHussien7" height="160" alt="languages graph"  />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=600&size=32&pause=1200&color=F3EBE0&center=true&vCenter=true&width=680&height=50&lines=Hi%2C+I'm+Mahmoud+Hussien;Software+Engineer+%7C+MERN+Stack" alt="Typing SVG" />
 </div>
 
-###
+<h3 align="center">
+  Software Engineer · Building with the MERN stack
+</h3>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" width="48" alt="html5 logo" title="Html" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" width="48" alt="css3 logo" title="Css" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="48" width="48" alt="sass logo" title="Sass" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" width="48" alt="javascript logo" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" width="48" alt="typescript logo" title="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="48" width="48" alt="angular logo" title="angular" />
+<p align="center">
+  Seeking a challenging role as a <strong>Software Engineer</strong> — shipping full-stack apps with<br />
+  <strong>MongoDB · Express · React · Node.js</strong>
+</p>
 
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="48" width="48" alt="github logo" title="Github" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" width="48" alt="react logo" title="React.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="48" width="48" alt="nextjs logo" title="Next.js" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Software%20Engineer-1E4D8C?style=for-the-badge&logo=github&logoColor=F3EBE0" alt="Software Engineer" />
+  <img src="https://img.shields.io/badge/MERN%20Stack-7A1F3D?style=for-the-badge&logo=mongodb&logoColor=F3EBE0" alt="MERN Stack" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-F3EBE0?style=for-the-badge&logo=linkedin&logoColor=1E4D8C" alt="Open to Work" />
+</p>
 
+---
 
-
-
-
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=MahmoudHussien7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&hide_border=true&bg_color=0F1B2D&title_color=F3EBE0&text_color=E5D7C5&icon_color=9C3A58&ring_color=1E4D8C" height="160" alt="stats graph" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=MahmoudHussien7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&hide_border=true&bg_color=0F1B2D&title_color=F3EBE0&text_color=E5D7C5" height="160" alt="languages graph" />
 </div>
 
-###
+---
 
-<div align="left">
+<h3 align="center">Tech Stack</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,ts,angular,js,html,css,sass,github" alt="Tech stack icons" />
+</div>
+
+---
+
+<div align="center">
   <a href="https://www.linkedin.com/in/mahmoud-hussien-481490243/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=1E4D8C&logoColor=F3EBE0&style=for-the-badge" height="35" alt="linkedin" />
   </a>
   <a href="https://wa.me/+201026376434" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=7A1F3D&logoColor=F3EBE0&style=for-the-badge" height="35" alt="whatsapp" />
   </a>
   <a href="https://www.facebook.com/mahmoud.hessen11" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1E4D8C&logoColor=F3EBE0&style=for-the-badge" height="35" alt="facebook" />
   </a>
   <a href="https://www.instagram.com/mahmouudhussien1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=7A1F3D&logoColor=F3EBE0&style=for-the-badge" height="35" alt="instagram" />
   </a>
 </div>
 
-###
-
-![](https://komarev.com/ghpvc/?username=MahmoudHussien7)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MahmoudHussien7&color=7A1F3D" alt="profile views" />
+</p>
